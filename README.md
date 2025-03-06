@@ -1,3 +1,34 @@
+## cob_common (jazzy) - 2.8.12-1
+
+The packages in the `cob_common` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy cob_common --override-release-repository-push-url git@github.com:revyos-ros/cob_common-release.git` on `Thu, 06 Mar 2025 11:47:07 -0000`
+
+These packages were released:
+- `cob_actions`
+- `cob_msgs`
+- `cob_srvs`
+
+These packages were explicitly ignored:
+- `cob_common`
+- `cob_description`
+- `raw_description`
+
+Version of package(s) in repository `cob_common`:
+
+- upstream repository: https://github.com/4am-robotics/cob_common.git
+- release repository: https://github.com/revyos-ros/cob_common-release.git
+- rosdistro version: `2.8.12-1`
+- old version: `null`
+- new version: `2.8.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## cob_common (noetic) - 0.7.11-1
 
 The packages in the `cob_common` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release --rosdistro noetic --edit cob_common` on `Tue, 30 Apr 2024 10:41:21 -0000`
